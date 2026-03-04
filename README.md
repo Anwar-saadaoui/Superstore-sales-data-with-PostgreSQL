@@ -208,7 +208,3 @@ POSTGRES_DB:       superstore_db
 ```
 
 ---
-
-## 👤 Author
-
-**Anwar** — Data Engineering Project | Sprint 2
