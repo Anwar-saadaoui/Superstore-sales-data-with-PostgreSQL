@@ -112,7 +112,7 @@ Go to **http://localhost:8080**
 
 | Field | Value |
 |---|---|
-| Email | `admin@superstore.com` |
+| Email | `anwar@gmail.com` |
 | Password | `admin123` |
 
 **Add a new server with:**
